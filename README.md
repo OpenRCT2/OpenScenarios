@@ -9,6 +9,7 @@ REQUIREMENTS TO SUBMIT A SCENARIO:
 
 1. Must include the Finished Scenario  
 2. Must include a Save of the Scenario at the last step of Scenario Creation  
+2. Must inlude a text file containing the Goal of the Scenario - IE X guests by Y date.
 3. Should include a Screenshot
 4. Should include a Description of the Scenario, and mention what difficulty category it is
 5. Should have at least 1 person that is not the scenario creator play test it and verify that the scenario has no major issues, and that the 
