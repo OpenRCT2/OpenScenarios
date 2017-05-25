@@ -15,7 +15,8 @@ REQUIREMENTS TO SUBMIT A SCENARIO:
 5. Should have at least 1 person that is not the scenario creator play test it and verify that the scenario has no major issues, and that the 
 difficulty is set correctly
 
+Please Note: There is exceptions for Parks that existed _before_ this project existed, and the original source files have been lost. In all such cases, the original owner has given permission for them to be used. IF YOUR PARK HAS BEEN USED WITHOUT YOUR PERMISSION, PLEASE CONTACT ME, THIS WAS NOT ON PURPOSE. 
 
-~~Licence is TBD, Please see [#2](https://github.com/PFCKrutonium/OpenRCT2-OpenScenarios/issues/2) for Discussion.~~
+#People who have contributed Parks:
+maian_sos
 
-Licence for now is CC, unless someone has a reason for it not to be. Once work begins, it will no longer be easily changable.
