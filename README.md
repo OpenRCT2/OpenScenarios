@@ -16,4 +16,4 @@ REQUIREMENTS TO SUBMIT A SCENARIO:
 difficulty is set correctly
 
 
-Licence is TBD, Please see #2 for Discussion.
+Licence is TBD, Please see [#2](https://github.com/PFCKrutonium/OpenRCT2-OpenScenarios/issues/2) for Discussion.
