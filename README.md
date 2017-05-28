@@ -5,7 +5,7 @@ Replacement Scenarios and Campaign for the Scenarios that came with RCT2 Origina
 
 Contribution and Approval process is not yet complete, but feel free to open PR's with Scenarios.
 
-##REQUIREMENTS TO SUBMIT A SCENARIO:
+### REQUIREMENTS TO SUBMIT A SCENARIO:
 
 1. Must include the Finished Scenario  
 2. Must include a Save of the Scenario at the last step of Scenario Creation  
@@ -14,7 +14,7 @@ Contribution and Approval process is not yet complete, but feel free to open PR'
 4. Should include a Description of the Scenario, and mention what difficulty category it is
 5. Should have at least 1 person that is not the scenario creator play test it and verify that the scenario has no major issues, and that the difficulty is set correctly.
 
-##HOW TO CONTRIBUTE:
+### HOW TO CONTRIBUTE:
 
 If you know how, make a PR with the files in the correct locations. If not, then please make an issue, with all the requested files in a Zip file, and upload them as part of the issue. In both scenarios, there will be additional verification of the park to ensure that it works well.
 
