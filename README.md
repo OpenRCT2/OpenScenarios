@@ -23,5 +23,5 @@ Thanks for taking the time to Contribute!
 Please Note: There is exceptions for Parks that existed _before_ this project existed, and the original source files have been lost. In all such cases, the original owner has given permission for them to be used. IF YOUR PARK HAS BEEN USED WITHOUT YOUR PERMISSION, PLEASE CONTACT ME, THIS WAS NOT ON PURPOSE. 
 
 # People who have contributed Parks:
-maian_sos
-Keatzee
+maian_sos  
+Keatzee  
