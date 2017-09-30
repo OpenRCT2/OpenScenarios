@@ -14,7 +14,7 @@ Contribution and Approval process is not yet complete, but feel free to open PR'
 4. Should include a Description of the Scenario, and mention what difficulty category it is
 5. Should have at least 1 person that is not the scenario creator play test it and verify that the scenario has no major issues, and that the difficulty is set correctly.
 
-##Of Note: Custom Scenery Objects are Allowed.
+## Of Note: Custom Scenery Objects are Allowed.
 
 ### HOW TO CONTRIBUTE:
 
