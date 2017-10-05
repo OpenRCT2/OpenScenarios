@@ -1,0 +1,11 @@
+Title: Rustburg Bridge
+
+Description: When the old road was closed, so was this small amusement park at the Rustburg Bridge. Your job is to revive it.
+
+Objective: 1250 Guests by End of Year 3
+
+Difficulty: Challenging (maybe easy)
+
+Notes: Rustburg Bridge was designed inspired by the old parks of added attractions/loopy landscapes. The goal should be posible to achieve even if going for a "visualy pleasing" park and/or avoiding to build on the water. The "restoration" of the old rides is just a minor aspect and not intended to be the park's main challenge. In a series of unlockable scenarios, i beleive the park should be somewhere in the middle of the list.
+
+The park contains purchasable construction rights, that may not be visible due to an openRCT2-bug. (These areas are in between where lands can be bought on both sides of the roads)
