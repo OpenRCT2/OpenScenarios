@@ -28,6 +28,3 @@ Please Note: There is exceptions for Parks that existed _before_ this project ex
 * maian_sos  
 * Keatzee 
 * Xedoh
-
-# Refactor by 733737
-Includes suggested changes by Wuzzy2
