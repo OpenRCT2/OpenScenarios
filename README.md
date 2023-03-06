@@ -28,3 +28,6 @@ Please Note: There is exceptions for Parks that existed _before_ this project ex
 * maian_sos  
 * Keatzee 
 * Xedoh
+
+# .park conversion by 73
+Includes suggested changes by Wuzzy2
