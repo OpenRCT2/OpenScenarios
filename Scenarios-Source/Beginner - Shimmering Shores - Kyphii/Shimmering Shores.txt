@@ -1,0 +1,13 @@
+Title: Shimmering Shores
+
+Description: "Build a compact park on a thin pier in this beachside town"
+
+Objective: 700 Guests at end of Year 2
+
+Difficulty: Beginner
+
+Design Notes: The initial pier is 360 tiles, approximately the same as Dinky Park's starting land. The second pier and the construction rights between can be bought. 
+
+The pier land texture is set to concrete in place of the original texture, the RCT1 wood texture. If a wood texture is added to Open, this scenario could be modified to use it. The scenario also makes use of the new colors for some scenery elements, thus v0.4.5+ is needed.
+
+This scenario's difficulty has been modified from its original version, to fit a late-Beginner campaign placement.

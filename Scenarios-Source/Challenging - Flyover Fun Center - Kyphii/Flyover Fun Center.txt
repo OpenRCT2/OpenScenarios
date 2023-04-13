@@ -1,0 +1,11 @@
+Title: Flyover Fun Center
+
+Description: "This small entertainment center is not permitted to build anything tall due to the nearby airport - develop it into a successful family-friendly attraction"
+
+Objective: 1000 guests after end of Year 3
+
+Difficulty: Challenging
+
+Design Notes: The scenario is intended to serve as an introduction to scenario restrictions, featuring a build height restriction. Coaster selection is likewise limited.
+
+This scenario has been modified from its original version to fit an early-Challenging campaign placement.
