@@ -7,7 +7,8 @@ Contribution and Approval process is not yet complete, but feel free to open PR'
 
 ### LINKS
 [Scenario list](https://docs.google.com/spreadsheets/d/1O1EUbyu-bKUSXxEBr6QElx7yqRPqFXEzIg_jN-_HxkY/edit?usp=drivesdk)
-[Open scenraios outline](https://docs.google.com/document/d/1WO3QtQM9upL0BqET3GBX7mkPofqFXxbBkBjD1snwjqE/edit?usp=drivesdk)
+
+[Open scenarios outline](https://docs.google.com/document/d/1WO3QtQM9upL0BqET3GBX7mkPofqFXxbBkBjD1snwjqE/edit?usp=drivesdk)
 
 ### REQUIREMENTS TO SUBMIT A SCENARIO:
 
