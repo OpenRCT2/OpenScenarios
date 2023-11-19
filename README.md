@@ -1,6 +1,9 @@
 # OpenRCT2-OpenScenarios
 
-[![Join the chat at https://gitter.im/PFCKrutonium/OpenRCT2-OpenScenarios](https://badges.gitter.im/PFCKrutonium/OpenRCT2-OpenScenarios.svg)](https://gitter.im/PFCKrutonium/OpenRCT2-OpenScenarios?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)  
+Project discussion takes place on Discord.
+
+- Invitation link: https://discord.gg/uNzSmAj
+- [![](https://img.shields.io/discord/264137540670324737?label=OpenRCT2%2Fopen-scenarios)](https://discord.com/channels/264137540670324737/1093263778814116022)
 Replacement Scenarios and Campaign for the Scenarios that came with RCT2 Originally. The goal is to create a campaign of +/- 30 scenarios with a good difficulty curve like in RCT1.
 
 Contribution and Approval process is not yet complete, but feel free to open PR's with Scenarios.
