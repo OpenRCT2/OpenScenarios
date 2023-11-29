@@ -41,3 +41,6 @@ Please Note: There are exceptions for Parks that existed _before_ this project e
 * maian_sos  
 * Keatzee 
 * Xedoh
+
+# .park conversion by 73
+Includes suggested changes by Wuzzy2
