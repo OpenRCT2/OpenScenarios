@@ -1,0 +1,9 @@
+Title: Misty Mire
+
+Description: "The bank refuses to lend money to develop this land - use what little you have to build a successful park"
+
+Objective: $200,000 Park Value at end of Year 2
+
+Difficulty: Challenging
+
+Design Notes: The player starts with just $3,000, no possibility of a loan, and no premade rides or stalls. The goal of this scenario is to find a way to make money quickly. The difficulty has been adjusted from its original version to fit an early Challenging-tier placement in the campaign.

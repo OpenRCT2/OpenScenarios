@@ -1,0 +1,11 @@
+Title: Halcyon Falls
+
+Description: "This historic park has fallen on hard times - pay off its massive debt while preserving its vintage rides"
+
+Objective: Pay off debt and achieve $250,000 park value
+
+Difficulty: Expert
+
+Design Notes: The scenario starts with a debt of $125,000 at 2% interest. Paying off this debt is the primary goal of the scenario - by the time it is paid off, the player should have also achieved the park value goal.
+
+The prebuilt rides are all under preservation orders, and are intended to be challenging to work around. Several have low throughput, making them a persistent challenge throughout the scenario. Refurbishing the rides is an option, but is not expected to complete the scenario.
