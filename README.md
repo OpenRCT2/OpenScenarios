@@ -1,43 +1,77 @@
-# OpenRCT2-OpenScenarios
+# OpenScenarios
 
-Project discussion takes place on Discord.
+Open Scenarios is part of the OpenRCT2 asset replacement project, seeking to make a fully featured freely available version of the game. The aim of this subproject is to create a new gameplay campaign to be officially bundled with OpenRCT2, made up of user submitted scenarios.
 
-- Invitation link: https://discord.gg/uNzSmAj
-- [![](https://img.shields.io/discord/264137540670324737?label=OpenRCT2%2Fopen-scenarios)](https://discord.com/channels/264137540670324737/1093263778814116022)
-Replacement Scenarios and Campaign for the Scenarios that came with RCT2 Originally. The goal is to create a campaign of +/- 30 scenarios with a good difficulty curve like in RCT1.
+# Project Resources:
 
-Contribution and Approval process is not yet complete, but feel free to open PR's with Scenarios.
+[Discord Invitation link](https://discord.gg/uNzSmAj)
 
-### LINKS
-[Scenario list](https://docs.google.com/spreadsheets/d/1O1EUbyu-bKUSXxEBr6QElx7yqRPqFXEzIg_jN-_HxkY/edit?usp=drivesdk)
+[Campaign design document](https://docs.google.com/spreadsheets/d/1O1EUbyu-bKUSXxEBr6QElx7yqRPqFXEzIg_jN-_HxkY/)
 
-[Open scenarios outline](https://docs.google.com/document/d/1WO3QtQM9upL0BqET3GBX7mkPofqFXxbBkBjD1snwjqE/edit?usp=drivesdk)
+[Scenario style guide](https://docs.google.com/document/d/1IMBBpUaRjGomsOaS88wqEnaRySgDIKPW0OdF5lGdF-k/edit?usp=drive_link)
 
-### REQUIREMENTS TO SUBMIT A SCENARIO:
+## OpenScenarios Project Plan
+Development of the OpenScenarios campaign project will take place in soft phases:
 
-1. Must include the Finished Scenario  
-2. Must include a Save of the Scenario at the last step of Scenario Creation  
-2. Must inlude a text file containing the Goal of the Scenario - IE X guests by Y date.
-3. Should include a Screenshot
-4. Should include a Description of the Scenario, and mention what difficulty category it is
-5. Should have at least 1 person that is not the scenario creator play test it and verify that the scenario has no major issues, and that the difficulty is set correctly.
+<ins>**Phase 1:**</ins> Contributors will brainstorm and refine a list of potential design concepts for scenarios to fill the campaign, deciding on objectives, themes, or any other design points. At any point, contributors may propose amendment, replacement, or removal of campaign slots if they are deemed unsatisfactory.
 
-### SCENARIO DESIGN GUIDELINES:
+<ins>**Phase 2:**</ins> Individual contributors will create scenario submissions which meet the criteria of the scenario concepts. Contributors may solicit feedback and playtesting at will.
 
-- The scenario must be able to be completed in a convenient way. This means without using cheats or massively exploiting game mechanics (like microcoasters).
-- Using cheats to create the scenario is acceptable as long as the park is reproducible without cheats, thus no usage of zero clearance or tile inspector for example.
-- Also no rides outside park boundaries, trackitecture or hacked rides.
-- Only use objects (rides, scenery, paths, terrain ...) labeled with _RCT2_ or _OpenRCT2 Official_, so no RCT1-exclusive or custom objects, or from the expansions (WW/TT).
+<ins>**Phase 3:**</ins> Once a decent number of candidate scenarios have been submitted, contributors will schedule focus time to evaluate and critique the candidates. Feedback and refinement will continue until either a clear favorite submission has been determined, or weaker submissions have been ruled out to leave only one or two preferred options.
 
-### HOW TO CONTRIBUTE:
+<ins>**Phase 4:**</ins> Selected or finalist scenarios will be moved to the `/campaign` subdirectory in this repo. Refinement may continue on selected scenarios. During this time, contributors may propose changes to any scenario, including those created by other contributors, via pull request.
 
-If you know how, make a PR with the files in the correct locations. If not, then please make an issue, with all the requested files in a Zip file, and upload them as part of the issue. In both scenarios, there will be additional verification of the park to ensure that it works well.
+<ins>**Phase 5:**</ins> The final scenario for each campaign slot will be decided on, if multiple finalist candidates still exist. After all campaign slots have reached this stage, the campaign will be considered complete and added as an official campaign bundled with OpenRCT2.
 
-Thanks for taking the time to Contribute!
 
-Please Note: There are exceptions for Parks that existed _before_ this project existed, and the original source files have been lost. In all such cases, the original owner has given permission for them to be used. IF YOUR PARK HAS BEEN USED WITHOUT YOUR PERMISSION, PLEASE CONTACT ME, THIS WAS NOT ON PURPOSE. 
+*Scenario submissions which are rejected at any point may be redesigned to fit another campaign slot, and start over from Phase 2.*
 
-## People who have contributed Parks:
-* maian_sos  
-* Keatzee 
-* Xedoh
+## Pull Request Guidelines
+Contributors may submit scenarios for consideration via pull request, with the desired `.park` files added to the `/submissions` subdirectory. The description of the pull request should contain, for each included scenario:
+- Scenario title, description, and objective.
+- The desired campaign slot and difficulty category.
+- A screenshot of the scenario.
+- Whether or not you consent to other contributors making changes to the scenario.
+Finished scenarios may be submitted in bulk. Please submit any scenarios which are still work-in-progress as individual pull requests.
+
+## Scenario Submission Requirements
+In order to maintain a consistently high level of quality, the following guidelines will be enforced for candidate scenarios. Scenarios submitted via pull request must meet these specifications.
+
+- Scenario submissions must be `.park` files.
+- Scenario file names should follow a standard format: `openscenarios-{campaign slot}-{author}-{scenario-title}.park` (All lowercase)
+    > *Example: openscenarios-01-kyphii-dawn-meadows.park*
+- If a scenario is still a work in progress, "wip-" should be prepended to the file name.
+- Scenario titles should match the in-game park name, with no additional text.
+- Scenarios should have a preview image generated in the Scenario Select UI. (If a scenario was created before this feature was added, the image can be generated by running the scenario through `Convert saved game to scenario`)
+- If created outside of the in-game scenario editor, scenarios should be properly initialized via the `Convert saved game to scenario` editor. Ensure that the in-game calendar is reset to March, Year 1, that the starting cash and loan are set to a proper initial value, and the finance and park information graphs are cleared.
+- Scenarios *must* only contain selected objects (rides, scenery, landscape, etc.) which originate from *RCT2* or *OpenRCT2 Official* sources. RCT1-exclusive, RCT2 Expansion, and custom content is not permissible.
+- Scenarios should have the following objects selected:
+    - All **RCT2** and **OpenRCT2 Official** path types, except for `Invisible Footpath` and `Invisible Queue`, as well as `Road` if it not used on the map.
+    - All **RCT2** and **OpenRCT2 Official** railing types except for `Invisible Railings`.
+    - All **RCT2** and **OpenRCT2 Official** terrain surfaces, except for `Void`.
+    - All **RCT2** and **OpenRCT2 Official** terrain edges, except for `Void`.
+    - All **RCT2** and **OpenRCT2 Official** music tracks.
+    - The scenery groups **Fences and Walls**, **Gardens**, **Shrubs and Ornaments**, **Signs and Items for Footpaths**, **Trees**, and **Walls and Roofs**.
+- Scenarios should have scenery groups selected for all selected objects, so that the Miscellaneous Scenery tab does not appear.
+- Scenarios should *not* be in Sandbox Mode, or have any other cheats enabled.
+- Scenarios should open unpaused.
+- Scenarios should open at the default zoom level.
+- Scenarios should open with sunny weather.
+- Scenarios should open with research funding set to **Normal funding**, and all research priority categories ticked.
+- Scenarios should not open with any active advertising campaigns.
+- Scenarios should not open with any broken-down rides, vandalism, or excessive litter, unless it is part of the intended theme or gameplay.
+- Scenarios should open with the default prices set for all shop items and restrooms.
+- When building a new ride or shop while playing the scenario, the default prices for ride entry, on-ride photos, and shop items should populate automatically (If the “No Money” cheat was used while creating the scenario, the prices will be set to free by default, and will need to be reset manually)
+- Rides in scenarios should be named. (Shops and stalls do not need to be named)
+- Scenarios should not include any tracked or renamed guests.
+- Scenarios should not feature *any* aspects that are only possible through the use of cheats or plugins. This includes objects placed with zero-clearance, tile inspector, console editing, etc. Using cheats or plugins to create a scenario is allowed, provided that the end result could also be created without the use of such tools.
+- Scenarios should not include any ride track outside of park boundaries, or ride track as decoration *("Trackitecture")*.
+
+## Scenario Quality Guidelines
+In addition to the above requirements, the OpenScenarios project aims for a high level of quality in campaign design, aesthetics and detailing, and gameplay considerations. 
+
+- One goal of OpenScenarios is to create a modern, curated experience for players new to OpenRCT2. Scenarios, especially beginner and intermediate level ones, should be built to fit a specific point in a smooth difficulty curve, with an eye towards imparting understanding of game mechanics and strategy through their design.
+- Scenarios in the project should be a showcase to those familiar with Roller Coaster Tycoon, but not previously in the OpenRCT2 community, how much the community has evolved in more than twenty years. We aspire to create scenarios which are more ambitious and refined than the comparatively quaint originals.
+- Scenario goals should be set in accordance with the campaign design plan for the desired campaign slot. Time limits should be reasonably short (less than 5 in-game years, with 2-3 years being standard)
+- Scenario 'difficulty' settings should generally be avoided, unless they are specified in the campaign design planning documents, or otherwise significant to the intended experience of the scenario. (i.e. not merely to make it more difficult)
+- For specific tips on aesthetics and design, consider referring to our Style Guide, linked above.
