@@ -1,9 +1,0 @@
-Title: Gentleman's Garden
-
-Description: Build a park for those who prefer a less intense experience in this beautiful garden.
-
-Objective: 800 Guests by End of Year 2
-
-Difficulty: Easy
-
-Notes: This park has guest-preference set to low-intensity, and the available rides reflect this. While money is set to a 15k loan maximum and space is limited, this scenario should not be hard to beat, du to a relativly easy objective.
