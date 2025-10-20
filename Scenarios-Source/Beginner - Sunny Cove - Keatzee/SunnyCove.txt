@@ -1,7 +1,0 @@
-Title: Sunny Cove
-
-Description: You have been hired to upscale the fairground at Sunny Cove. The park has plenty of casual attractions, but will need some intense rides to appease the thrill-seekers.
-
-Objective: To achieve a park value of at least $150,000 at the end of October, Year 2
-
-Difficulty: Beginner

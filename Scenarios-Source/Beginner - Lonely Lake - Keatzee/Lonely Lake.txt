@@ -1,9 +1,0 @@
-Title: Lonely Lake
-
-Description: This secluded lake was once a popular fushing spot decades ago. Now abandoned, turn it into a popular amusement park.
-
-Objective: To have at least 250 guests in your park at the end of October, Year 1, with a park rating of at least 600
-
-Difficulty: Beginner
-
-Since pretty much every release and expansion of RCT1/2 had a scenario with "Lake" in the title, OpenScenarios should too. This is very easy, with a "Forest Frontiers" feel; I designed this with an absolute beginner in mind.
